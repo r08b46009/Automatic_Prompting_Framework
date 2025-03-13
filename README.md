@@ -3,7 +3,6 @@ Also, this could enable the GPT could keep their memory.
 
 
 1st trial:
-XXX % python3 Automatic\ prompt_framework.py
 
 🔍 **check 1th data**
 prompting_word_from_first_GPT_Agent Prompt for GPT-3:
